@@ -1,4 +1,4 @@
-Program simulates a simple primitive movie reservation system. 
+Program simulates a simple movie reservation system. 
 
 Program has a separate file as a "database" and saves changes locally. UI is only text based and not perfect.
 
